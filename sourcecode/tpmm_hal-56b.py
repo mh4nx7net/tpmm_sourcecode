@@ -8,3 +8,6 @@ hasil = a+b
 # tampilkan
 print("hasil dari {} + {} = {}\n".format(a, b, hasil))
 print("nilai variable\n a = {}, b = {}, c = {}".format(a, b, c))
+
+
+

@@ -1,7 +1,6 @@
 print('opsi:\na)tambah\nb)kurang\nc)kali\nd)bagi')
 print('contoh: nilai1 (opsi) nilai2\n')
 
-
 def olah(masukan):
     # masukan = [nilai1, opsi, nilai2]
     # variable masukan berupa list
@@ -27,12 +26,12 @@ def olah(masukan):
         print('inputan salah!')
         print('masukan nilai atau opsi dengana benar!')
     print('hasilnya: ', hasil)
-
-
 olah(input().split(' '))
 # menjalankan fungsi olah **utama dari keseluruhan program
 # dengan mengubah input kedalam list (array)
 # kemudian akan di iterasi kedalam tiap variable. cek atas!
 
 # PERDALAM! mengapa pyhton tidak mendukung switch-case
-# Kunjungi! https://s.id/
+# Kunjungi!  https://s.id/py-no_switch 
+
+

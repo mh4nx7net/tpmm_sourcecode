@@ -13,3 +13,6 @@ print(value1, '+', value2, '=', add_ver2, '#print ver2')
 # begitupun struktur penulisan.
 # mereka tetap akan digunakan pada titik sekenario,
 # bila mana itu memang dibutuhkan
+
+
+

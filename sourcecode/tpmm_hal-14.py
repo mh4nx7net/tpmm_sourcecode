@@ -1,6 +1,5 @@
 import random
 
-
 class nilaiSiswa:
     # fungsi init untuk class nilaiSiswa
     def __init__(self, jumlah_siswa):
@@ -19,11 +18,9 @@ class nilaiSiswa:
     def __repr__(self):
         return str(list(self.daftar_nilai))
 
-
 # generate nilai pada tiap kelas
 kelasA = nilaiSiswa(5).__iter__()
 kelasB = nilaiSiswa(5).__iter__()
-
 
 def menentukan_kelulusan(nama_kelas):
     # fungsi utama untuk menentukan kelulusan
@@ -33,7 +30,7 @@ def menentukan_kelulusan(nama_kelas):
         else:
             print(nilai, '==> tidak lulus')
 
-
 # penentuan nilai tiap kelas
 print('daftar nilai KelasA: ')
 menentukan_kelulusan(kelasA)
+

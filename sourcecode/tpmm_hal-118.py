@@ -10,3 +10,6 @@ class main:
 
 # memanggil nama kelas
 main()
+
+
+

@@ -13,3 +13,6 @@ index = 0
 while index < 10:
     print(nilai)
     index += 1
+
+
+

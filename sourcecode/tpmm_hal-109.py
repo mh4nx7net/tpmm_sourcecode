@@ -17,3 +17,6 @@ print('Z ==> jalan')
 # algoritma dasar akan nampak seperti berikut
 # secara dinamik dapat menggunakan nested ifelse
 # untuk menentukan nilai
+
+
+

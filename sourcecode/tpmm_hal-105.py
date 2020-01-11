@@ -16,3 +16,6 @@ print('hasil :', switch[input()])
 # benar, maka dalam penerapan
 # dapat menggunakan dictionary
 # ataupun if else seperti biasa
+
+
+

@@ -10,3 +10,6 @@ print(
     .format(pointer, id(pointer), angka, id(angka))
 )
 # FYI!. Selengkapnya baca 'cPython'
+
+
+

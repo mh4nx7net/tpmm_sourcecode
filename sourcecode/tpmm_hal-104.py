@@ -22,3 +22,6 @@ if password == new_password:
         print('selamat datang admin', number)
     else:
         print('masukan dengan benar!')
+
+
+

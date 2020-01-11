@@ -12,3 +12,6 @@ for i, x in enumerate(nilai):
 
 # menampilkan seluruh data
 print('seluruh data: ', nilai)
+
+
+

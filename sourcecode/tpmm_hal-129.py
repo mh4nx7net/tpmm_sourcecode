@@ -7,3 +7,6 @@ while a <= 100:
     print('{} Lembar -> Rp.{}'.format(a, b))
     a += 1
 # else: a=100 -> end
+
+
+

@@ -23,3 +23,5 @@ print('daftar absen dan nilai: \n\n', kelas_IT)
 print('\nnama\tnilai\tketerangan')
 # menjalankan fungsi menentukan_kelas
 menentukan_kelulusan(kelas_IT)
+
+

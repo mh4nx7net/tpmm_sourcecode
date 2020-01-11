@@ -12,3 +12,6 @@ print("isi variable angka3 :\t {}\t > type {}\n".format(angka3, type(angka3)))
 print("isi variable angka4 :\t {}\t > type {}\n".format(angka4, type(angka4)))
 print("isi variable angka5 :\t {}\t > type {}\n".format(angka5, type(angka5)))
 print("isi variable angka6 :\t {}\t > type {}\n".format(angka6, type(angka6)))
+
+
+

@@ -9,3 +9,5 @@ while i <= 10:
     else:
         print('genap =>', i)
     i += 1
+
+

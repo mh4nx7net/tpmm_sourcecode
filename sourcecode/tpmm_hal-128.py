@@ -26,3 +26,6 @@ elif input() == '3' or 'waktu':
     waktu(int(input()), int(input()))
 else:
     print('opsi salah!')
+
+
+

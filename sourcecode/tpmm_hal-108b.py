@@ -1,7 +1,6 @@
 print('opsi:\na)tambah\nb)kurang\nc)kali\nd)bagi')
 print('contoh: nilai1 (opsi) nilai2\n')
 
-
 def olah(masukan):
     # masukan = [nilai1, opsi, nilai2]
     # variable masukan berupa list

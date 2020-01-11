@@ -9,3 +9,6 @@ umur = tahun_ini - tahun_lahir
 bmi = berat_badan / tinggi_badan
 # menampilkan nilai
 print('nama : {}\numur : {}\n bmi : {}'.format(nama_X, umur, bmi))
+
+
+

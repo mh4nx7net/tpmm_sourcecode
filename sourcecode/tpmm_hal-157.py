@@ -25,3 +25,6 @@ elif opsi == 'lingkaran':
     olah_lingkaran()
 else:
     print('masukaan opsi dengan benar')
+
+
+
